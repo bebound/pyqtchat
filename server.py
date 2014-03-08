@@ -68,8 +68,7 @@ class User(Base):
 
 
 class serverMainWindow(QtGui.QMainWindow, ui_serverMainWindow.Ui_MainWindow):
-    database='postgresql+psycopg2://'+localSettings.postgreUser+':'+localSettings.postgrePWD+'@localhost/'+localSettings.postgreDatabase
-    db = create_engine(database)
+    db = create_engine(localSettings.database)
     Session = sessionmaker()
     Session.configure(bind=db)
     session = Session()
