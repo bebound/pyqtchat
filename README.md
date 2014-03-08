@@ -19,6 +19,8 @@
 账号注册相关参看代码
 
 # 使用截图
-![使用截图](https://raw.github.com/bebound/pyqtchat/master/screenShot/1.png)
-![使用截图](https://raw.github.com/bebound/pyqtchat/master/screenShot/2.png)
-![使用截图](https://raw.github.com/bebound/pyqtchat/master/screenShot/3.png)
+![使用截图](https://raw.github.com/bebound/pyqtchat/master/ScreenShot/1.png)
+
+![使用截图](https://raw.github.com/bebound/pyqtchat/master/ScreenShot/2.png)
+
+![使用截图](https://raw.github.com/bebound/pyqtchat/master/ScreenShot/3.png)
